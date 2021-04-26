@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/47039874/scrape-dynamic-html-youtube-comments
+https://github.com/SOMJANG/Youtube_Comment_Crawler/blob/master/Youtube%20Crawler.ipynb
+https://github.com/littlechun4/YoutubeCommentCrawler
+
+https://github.com/srcecde/python-youtube-api
+https://stackoverflow.com/questions/36585824/how-to-get-all-comments-more-than-100-of-a-video-using-youtube-data-api-v3
+https://github.com/AmitKumar1a2/YoutubeScraper
+
+AIzaSyAt5UxOmdrWzRnvkjZohub9AYLl2k0dDto
+AIzaSyAt5UxOmdrWzRnvkjZohub9AYLl2k0dDto
